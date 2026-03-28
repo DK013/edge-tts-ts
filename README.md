@@ -1,4 +1,4 @@
-# edge-tts-ts
+# edge-tts-ts [![npm version](https://badge.fury.io/js/edge-tts-ts.svg)](https://badge.fury.io/js/edge-tts-ts)
 
 A TypeScript port of the [edge-tts](https://github.com/rany2/edge-tts) Python module.
 
