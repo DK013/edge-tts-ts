@@ -1,0 +1,41 @@
+# Dependencies
+node_modules
+.pnpm-store
+
+# Build output
+dist
+*.tsbuildinfo
+
+# Test results
+coverage
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Temp
+*.tmp
+edge_tts_*.mp3
+test.mp3
+test.srt
+
+# Examples
+examples/browser/node_modules
+examples/browser/dist
+examples/nodejs/*.mp3
+examples/nodejs/*.srt
+
+#Samples
+samples/audio/
